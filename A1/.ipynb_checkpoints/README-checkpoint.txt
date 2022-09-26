@@ -13,5 +13,3 @@ How to run the script:
 3. Both data are saved in the same directory as notebooks 
 3. There are two notebooks, one for analysis with balanced class weights and the other without class weights. Both data loading and analysis are in each notebook file.
 4. Once jupyter notebook is open, you should be able to run each cell directly.
-
-Code was uploaded to: 
