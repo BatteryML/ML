@@ -6,6 +6,8 @@ scipy == 1.9.1
 numpy == 1.23.3
 scikit-learn == 1.1.2
 matplotlib == 3.6.0
+mlrose-hiive == 2.2.4
+tqdm == 4.64.0
 
 Contents:
 
