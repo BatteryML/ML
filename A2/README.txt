@@ -13,7 +13,7 @@ Contents:
 
 1. All contents are in the folder 'A2'. 
 
-2. There are four notebooks, including one notebook for neural network weight optimization (ANN_optimization.ipyny) and three notebooks problem optimization (SA_queens.ipynb, GA_four_peaks.ipynb and MIMIC_flip_flop.ipynb).
+2. There are four notebooks, including one notebook for neural network weight optimization (ANN_optimization.ipyny) and three notebooks for problem optimization (SA_queens.ipynb, GA_four_peaks.ipynb and MIMIC_flip_flop.ipynb).
 
 3. There is one data file (MagicTelescope.arff) for ANN analysis, which was downloaded from OpenML datasets and subsampled before analysis: https://www.openml.org/search?type=data&id=1120&sort=runs&status=active.
 
